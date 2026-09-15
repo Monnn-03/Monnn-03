@@ -16,5 +16,19 @@
 
 [![](https://komarev.com/ghpvc/?username=Monnn-03&icon=0&color=13)](https://visitcount.itsvg.in)
 
+### Play Games with Me
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monnn-03/Monnn-03/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monnn-03/Monnn-03/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Monnn-03/Monnn-03/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Monnn-03/Monnn-03/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <!-- ![Hello World](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJpNTZ0ZjF4bndvZG00MG9qa3dpNWoycnQzMm9leHVoa3h1dDZrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0O9yiM3XbdhPQr1C/giphy.gif) -->
